@@ -5,7 +5,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import ru.alishev.springcourse.FirstRestApp.consumer.Consumer;
 import ru.alishev.springcourse.FirstRestApp.dto.MeasureDTO;
 import ru.alishev.springcourse.FirstRestApp.models.Measure;
 import ru.alishev.springcourse.FirstRestApp.services.MeasureService;
